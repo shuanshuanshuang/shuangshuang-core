@@ -79,7 +79,7 @@
 		<druid.starter.version>1.1.10</druid.starter.version>
 		<dubbo.starter.version>0.2.0</dubbo.starter.version>
 
-		<mysql.jdbc.version>5.1.46</mysql.jdbc.version>
+		<mysql.jdbc.version>8.0.16</mysql.jdbc.version>
 		<springfox.swagger2.version>2.9.2</springfox.swagger2.version>
 		<jedis.version>2.9.0</jedis.version>
 		<hutool.version>4.0.5</hutool.version>
