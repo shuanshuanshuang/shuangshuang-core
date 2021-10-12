@@ -87,7 +87,7 @@
 		<dependency>
 			<groupId>com.xuxueli</groupId>
 			<artifactId>xxl-job-core</artifactId>
-			<version>1.9.2</version>
+			<version>2.3.0</version>
 		</dependency>
 		<!-- pagehelper 主要是dubbo序列化需要使用到，引入包就行不需要使用starter -->
 		<dependency>
