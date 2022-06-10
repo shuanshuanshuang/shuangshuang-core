@@ -101,7 +101,7 @@
 	
 		<shiro.version>1.4.0</shiro.version>
 		<fastdfs.version>1.27</fastdfs.version>
-		<dubbo.version>2.6.2</dubbo.version>
+		<dubbo.version>2.6.12</dubbo.version>
 		<zkclient.version>0.7</zkclient.version>
 		<zookeeper.version>3.4.10</zookeeper.version>
 		<curator-framework.version>2.12.0</curator-framework.version>
